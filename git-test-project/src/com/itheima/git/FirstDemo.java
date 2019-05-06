@@ -10,6 +10,7 @@ public class FirstDemo {
         System.out.println("Java从入门到放弃");
         System.out.println("Java从入门到放弃");
         //添加注释
+        System.out.println("Java71期");
     }
 
     public void test(){
